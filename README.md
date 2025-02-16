@@ -66,7 +66,7 @@ allow https,http and set a key pair
    <img width="462" alt="which-docker" src="https://github.com/user-attachments/assets/0a50a858-ef75-4288-b236-05cdd1100682" />
 
 
-# **Setup Terraform **
+# **Setup Terraform**
 
 ```bash
 
