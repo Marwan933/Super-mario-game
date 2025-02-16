@@ -264,7 +264,7 @@ It is a mechanism that helps distribute incoming internet traffic among multiple
 
 It’s like having a receptionist at a busy office building entrance who guides visitors to different floors or departments, preventing overcrowding at any one location. In the digital world, a Load Balancer Ingress helps maintain a smooth user experience, improves application performance, and ensures that no single server becomes overwhelmed with too much traffic.
 
-# **Step 7 → Destroy all the Insrastructure**
+# **Step 7 → Destroy all the Infrastructure**
 
 1 . Below commands delete your deployment and service
 
